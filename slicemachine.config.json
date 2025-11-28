@@ -1,0 +1,6 @@
+{
+  "repositoryName": "beautiful-croissant-i3h75i",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./slices"],
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
